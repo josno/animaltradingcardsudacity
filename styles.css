@@ -1,0 +1,52 @@
+h3 {
+	font-family: 'Bangers', Helvetica, sans-serif;
+	-webkit-text-stroke: 1px #000000;
+	font-size: 40pt;
+	color: #9d02f2;
+	padding: 5px;
+	margin: 0 0 10px 0;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	height: 200px;
+	border: 10px solid #f90088;
+}
+
+
+.maindiv {
+	background-color: #c8b4cf;
+	background: linear-gradient(135deg, #ffffd1 0%,#ffff88 51%,#ffbe82 100%);
+	margin: auto;
+	width: 350px;
+	border: 1px solid black;
+	padding:20px;
+	box-shadow: 10px 10px #888888;
+	font-family: 'Oswald', Helvetica, sans-serif;
+}
+
+
+.infodiv {
+	width: 300px;
+	font-color: blue;
+	border: 1px solid #f90088;
+	margin: 20px auto auto auto;
+	padding: 5px;
+}
+
+.intro {
+	font-style: italic;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.emphasis {
+	font-weight: bold;
+}
